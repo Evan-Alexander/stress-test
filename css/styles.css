@@ -1,8 +1,10 @@
-#stress-responses {
+#stress-response1,
+#stress-response2 {
   display: none;
 }
 
-#remedy-responses {
+#remedy-response1,
+#remedy-response2 {
   display: none;
 }
 
