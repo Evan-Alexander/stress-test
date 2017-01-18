@@ -1,0 +1,21 @@
+#stress-responses {
+  display: none;
+}
+
+#remedy-responses {
+  display: none;
+}
+
+img {
+  border-radius: 25%;
+  display: block;
+  margin: auto;
+  width: 500px;
+}
+
+body,
+h2,
+p {
+  text-align: center;
+  margin: 2.5% 2.5%;
+}
